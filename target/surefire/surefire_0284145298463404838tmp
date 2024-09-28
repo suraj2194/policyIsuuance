@@ -1,0 +1,6 @@
+#surefire_0
+#Tue Jul 30 12:38:58 IST 2024
+basedir=/home/suraj/Desktop/Policy_Issuance
+localRepository=/home/suraj/.m2/repository
+test=Ops_test
+user.dir=/home/suraj/Desktop/Policy_Issuance
